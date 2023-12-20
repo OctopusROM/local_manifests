@@ -1,7 +1,7 @@
 <manifest>
     <project path="hardware/xiaomi" name="hardware_xiaomi" remote="pixel" revision="thirteen" />
     <project path="device/qcom/common" name="device_qcom_common" remote="pixel-devices" revision="thirteen" />
-    <project path="kernel/xiaomi/sm8250" name="kernel_xiaomi_sm8250" remote="octopus" revision="alioth" />
+    <project path="kernel/xiaomi/sm8250" name="kernel_xiaomi_sm8250" remote="octopus" revision="main" />
     <project path="device/xiaomi/sm8250-common" name="device_xiaomi_sm8250-common" remote="octopus" revision="PixelReloaded-thirteen" />
     <project path="vendor/xiaomi/sm8250-common" name="vendor_xiaomi_sm8250-common" remote="pixel-devices-blobs" revision="thirteen" />
     <project path="device/xiaomi/alioth" name="device_xiaomi_alioth" remote="octopus" revision="PixelReloaded-thirteen" />
